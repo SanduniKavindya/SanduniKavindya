@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Web Application Development, Mobile Application Development.**
 
-- 📫 reach me **sandunikavindya4444@gmail.com**
+- 📫 Reach me **sandunikavindya4444@gmail.com**
 
 - ⚡ **I am interested in developing web applications and mobile applications.**
 
