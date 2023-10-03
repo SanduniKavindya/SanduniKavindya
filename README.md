@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandunikavindya&" alt="sandunikavindya" /></p>
 
-[![An image of @sandunikavindya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sandunikavindya)](https://holopin.io/@sandunikavindya)
+
