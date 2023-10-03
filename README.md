@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandunikavindya&show_icons=true&locale=en" alt="sandunikavindya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandunikavindya&" alt="sandunikavindya" /></p>
+
+[![An image of @sandunikavindya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sandunikavindya)](https://holopin.io/@sandunikavindya)
